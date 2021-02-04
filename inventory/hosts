@@ -1,0 +1,2 @@
+[jenkins]
+jenkins1  ansible_host=161.35.185.74
